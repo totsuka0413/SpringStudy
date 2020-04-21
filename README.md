@@ -1,2 +1,1 @@
-# SpringStudy
-spring勉強用
+# Spring MVC study
